@@ -1,0 +1,147 @@
+﻿script	
+英[skrɪpt]
+美[skrɪpt]
+n.	 脚本，手迹; 书写体铅字; 剧本、广播稿或者电影剧本;
+vt.	 为电影（或戏剧等）写剧本; 编造;
+
+pointer	
+英[ˈpɔɪntə(r)]
+美[ˈpɔɪntɚ]
+n.	 教鞭; 建议; 线索; （测量仪器上的） 指针;
+
+
+format	
+英[ˈfɔ:mæt]
+美[ˈfɔ:rmæt]
+n.	 （出版物的） 版式; [自] （数据安排的） 形式; （或计划） 电视节目的总安排;
+vt.	 使格式化; 安排…的格局; 设计…的版面;
+vi.	 设计一个版式;
+
+
+
+attribute	
+英[əˈtrɪbju:t]
+美[əˈtrɪbjut]
+vt.	 认为…是; 把…归于; 把…品质归于某人; 认为某事[物]属于某人[物];
+全部释义>>
+
+
+Traceback		
+[释义]	 [医] （计算机病毒名） 追溯;
+
+
+
+interactively
+英[ˌɪntər'æktɪvlɪ]
+美[ˌɪntər'æktɪvlɪ]
+adv.	 互动; 交互式的
+
+
+Utility	英[ju:ˈtɪləti]
+美[juˈtɪləti]
+n.	 公用事业; 功用，效用; 有用的物体或器械; 公用事业公司;
+adj.	 有多种用途的; 各种工作都会做的; 能在数个位置作替补的; 为获得经济价值而饲养;
+全部释义>>
+
+Pickle   python中的一个数据永久存储模块
+
+persistent
+英[pəˈsɪstənt]
+美[pərˈsɪstənt]
+adj.	 持续的; 持久的; 坚持不懈的; 坚持不渝
+
+serialize
+将某个对象抓取下来，形成文本流。
+
+
+proprietary
+英[prəˈpraɪətri]
+美[prəˈpraɪəteri]
+adj.	 专有的，专利的; 所有（人）的; （商品） 专卖的;
+n.	 所有权，所有物; 所有人; 专卖药品; 独家制造（及销售）的产品
+
+potential
+英[pəˈtenʃl]
+美[pəˈtɛnʃəl]
+adj.	 潜在的，有可能的; [语法学] 可能语气的，表示可能性的; 有能力的;
+n.	 潜力，潜能; [物] 电位，势能; 潜能的事物; [语] 可能语气
+
+
+
+shelve
+shelve是一额简单的数据存储方案，他只有一个函数就是open()，这个函数接收一个参数就是文件名，然后返回一个shelf对象，
+你可以用他来存储东西，就可以简单的把他当作一个字典，当你存储完毕的时候，就调用close函数来关闭
+
+prefix
+英[ˈpri:fɪks]
+美[ˈpriˌfɪks]
+n.	<语>前缀; 人名前的称谓; （置于前面的单词或字母、数字） 前置代号;
+全部释义>>
+
+encapsulate
+英[ɪnˈkæpsjuleɪt]
+美[ɛnˈkæpsəˌlet]
+vt.	 封装; 概述;
+vi.	 形成囊状物
+
+
+redundancy
+英[rɪˈdʌndənsi]
+美[rɪˈdʌndənsi]
+n.	 裁员; 过多，过剩; 冗长; （机器的） 多余度;
+全部释义>>
+
+
+customize
+英[ˈkʌstəmaɪz]
+美[ˈkʌstəˌmaɪz]
+vt.	 定制，定做; 按规格改制
+
+
+extension
+英[ɪkˈstenʃn]
+美[ɪkˈstɛnʃən]
+n.	 伸展，扩大; 延长，延期; [医] 牵引; 电话分机
+
+inheritance
+n.  继承，遗传，遗产；
+
+
+enhancement
+n.增强；提高；增加；改善
+
+permanent
+adj.  永久性的， 永恒的， 不变的， 耐久的， 持久的， 稳定的 ，常务的，常设的，
+n.电烫发
+
+implement
+vt.  实施，执行； 使。。生效； （政策）落实， 把。。。填满
+n. 工具，器械； 家具； 手段
+
+polymorphism
+n. 多型现象，多态性； 多机组合机制；
+
+Object-Oriented Programming
+OOP面向对象程序设计；
+
+explicit
+adj.  明确的，清楚的；直言的
+
+
+constructor
+n.构造器；
+
+Demonstrate
+英[ˈdemənstreɪt]
+美[ˈdɛmənˌstret]
+vt.	 论证; 证明，证实; 显示，展示; 演示，说明;
+vi.	 示威游行;
+
+
+hierarchy
+n.  等级制度，统治集团，领导层，层次
+
+Console Interaction
+n.控制台，操纵台。
+vt.安慰，慰藉
+n.人名 孔索莱
